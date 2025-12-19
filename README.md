@@ -8,6 +8,44 @@ The pipeline extracts data from multiple heterogeneous sources (API, MySQL Datab
 The project follows best practices in data engineering such as modular design, staging layers, metadata enrichment, and clear separation of responsibilities between pipeline phases.
 
 ---
+🗂️ Project Structure
+project-root/
+│
+├── DB_Connection/        # Database connection scripts (MySQL)
+│
+├── DataLake/             # Raw data storage (CSV / JSON files)
+│
+├── extracted/            # Extracted datasets from API, DB, and Data Lake
+│
+├── staging_1/            # First staging layer (cleaned & validated data)
+│
+├── staging_2/            # Second staging layer (transformed & enriched data)
+│
+├── Information_Mart/     # Final processed data ready for analytics
+│
+├── Visualizations/       # Generated charts and reports
+│
+├── schema_model.db       # Database schema (dimension & fact tables)
+│
+├── data_mart.db          # Final data mart database
+│
+├── Schema_Diagram.png    # ER / Star Schema diagram
+│
+├── requirements.txt      # Python dependencies
+│
+├── Extraction.py         # Data extraction logic (API, MySQL, Data Lake)
+│
+├── Transformation.py    # Data cleaning and transformation logic
+│
+├── Modeling.py           # Data aggregation and dimensional modeling
+│
+├── Quality_check.py     # Data quality validation checks
+│
+├── Visualization.py     # Charts and business insights generation
+│
+└── main.py               # Main ETL pipeline execution
+
+
 
 ## 🎯 Project Objectives
 - Extract data from different sources using Python
