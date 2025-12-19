@@ -77,12 +77,12 @@ Transformed data stored in **staging_2**
 ---
 
 ### 4️⃣ Data Modeling
-- Designed a **Star Schema** for analytics
-- Built:
+  - Designed a **Star Schema** for analytics
+  - Built:
   - Fact tables for transactional data
   - Dimension tables for descriptive attributes
-- Integrated orders, order items, and product data
-- Final analytical datasets stored in **Information Mart**
+  - Integrated orders, order items, and product data
+  - Final analytical datasets stored in **Information Mart**
 
 ---
 
