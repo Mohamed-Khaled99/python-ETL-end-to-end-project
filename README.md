@@ -84,6 +84,9 @@ Transformed data stored in **staging_2**
   - Integrated orders, order items, and product data
   - Final analytical datasets stored in **Information Mart**
 
+    <img width="1111" height="1044" alt="Pyproject_Schema drawio" src="https://github.com/user-attachments/assets/64da99db-00ab-42b3-b8b9-ad9f4e5ae741" />
+
+
 ---
 
 ### 5️⃣ Reporting & Visualization
