@@ -7,6 +7,9 @@ The pipeline extracts data from multiple heterogeneous sources (API, MySQL Datab
 
 The project follows best practices in data engineering such as modular design, staging layers, metadata enrichment, and clear separation of responsibilities between pipeline phases.
 
+![Uploading PyProject_Architicture.png…]()
+
+
 ---
 ## 🎯 Project Objectives
 - Extract data from different sources using Python
