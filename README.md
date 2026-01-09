@@ -109,11 +109,17 @@ Transformed data stored in **staging_2**
   - Distribution analysis (Customer Segmentation)
 - Visualizations created using:
   - `matplotlib`
- <img width="640" height="480" alt="Sales over month" src="https://github.com/user-attachments/assets/632c8137-105c-4eb2-9b47-dc2b21632ee5" />
-<img width="640" height="480" alt="Sales over Days" src="https://github.com/user-attachments/assets/c40f56f9-0c23-4f36-ad73-9220e67350d3" />
-<img width="640" height="480" alt="Sales over year" src="https://github.com/user-attachments/assets/73a0cdf7-ca8d-488b-b9e3-fe3ea2217100" />
-<img width="640" height="480" alt="sales per store state" src="https://github.com/user-attachments/assets/f40287be-9d59-43bb-b58a-33cc0f2af0a9" />
-<img width="640" height="480" alt="Top 10 Products chart" src="https://github.com/user-attachments/assets/2eecfb1c-8230-4380-b6da-33dcfdec91e1" />
+<img width="1200" height="600" alt="Sales over month" src="https://github.com/user-attachments/assets/407f3b96-9cfb-4a87-aa5c-f736fe123e8d" />
+<img width="1000" height="600" alt="Sales over year" src="https://github.com/user-attachments/assets/649cc3dd-724c-4389-bf94-2d78906447b9" />
+<img width="1200" height="600" alt="Sales over Days" src="https://github.com/user-attachments/assets/1467f064-0f8e-426f-9a26-ea5537f39245" />
+<img width="1400" height="800" alt="Top 10 Products chart" src="https://github.com/user-attachments/assets/ee68ae4f-9385-4dab-b41b-13c6c7b69708" />
+<img width="800" height="800" alt="sales per store state" src="https://github.com/user-attachments/assets/f0ef0533-d56c-458a-bb33-5ce971dbe7c7" />
+<img width="1200" height="600" alt="Sales per Staffs" src="https://github.com/user-attachments/assets/10aedd53-5aa0-4c1a-ba32-e70319e87c64" />
+
+
+
+
+
 
 ## 🗂️ Project Structure
 
