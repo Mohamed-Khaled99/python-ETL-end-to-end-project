@@ -9,6 +9,7 @@ The project follows best practices in data engineering such as modular design, s
 
 <img width="1475" height="975" alt="PyProject_Architicture" src="https://github.com/user-attachments/assets/ada0283d-fa69-48b6-8be3-232a809ed6fc" />
 
+<img width="1920" height="909" alt="main" src="https://github.com/user-attachments/assets/50c4ffa0-de02-4232-8c8d-ffa46e60a88f" />
 
 ---
 ## 🎯 Project Objectives
